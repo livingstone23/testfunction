@@ -1,0 +1,107 @@
+[33mcommit d6efb30455bfa14e15702737928104ea1ca5cfaf[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Thu Jan 18 18:48:18 2024 +0100
+
+    Feature: [IMZ-I197] Enable model  EntityMasterGeneralGetDTO and mapping
+
+[33mcommit aed0e9a3e25725430a5bdbadcb06d34c9a7ff5c5[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Tue Jan 9 22:35:06 2024 +0100
+
+    Feature: [IMZ-I197] Fix ServiceBus
+
+[33mcommit 70cea6a476e22c5cea0dfa34e5e502902b36e0cb[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Tue Jan 9 21:27:48 2024 +0100
+
+    Feature: [IMZ-I197] Add ServiceBus
+
+[33mcommit 73fcb6ff59aae2dac20a1b835acd49046f231646[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Mon Jan 8 19:46:12 2024 +0100
+
+    Feature: [IMZ-I197] Adding UniversalCatalog
+
+[33mcommit 995046ae3f6312ca262a7dfb15c1cd546b46df60[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Mon Jan 1 18:11:21 2024 +0100
+
+    Feature: [IMZ-I197] Adding Adding EntityMaster Functions
+
+[33mcommit 954dcbf571e7e2999b777486798d1e243cf40e71[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Thu Dec 28 16:07:15 2023 +0100
+
+    Feature: [IMZ-I197] Adding CreditRequestMaster
+
+[33mcommit fb447d10a825c67e15f6a3d398a072b655b76186[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Fri Dec 22 21:47:12 2023 +0100
+
+    Feature: [IMZ-I197] Adding EntityMasterAddress
+
+[33mcommit c963c949a58cf0e95bbd37c6730143383d1dc796[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Sat Dec 16 00:09:12 2023 +0100
+
+    Feature: [IMZ-I197] Adding Catalogs for CreditRequestMaster
+
+[33mcommit 2d4abf35f409f76362802bebaef786f35e95bc0d[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Wed Dec 13 21:54:13 2023 +0100
+
+    Feature: [IMZ-I197] Adding Catalogs
+
+[33mcommit fa92feb32a1f7727f152d127987936d425b7314a[m
+Author: lcano <lcano@sahgl.com>
+Date:   Tue Dec 5 22:55:29 2023 +0100
+
+    Feature: [CCP-19] Enable Add function CreateEntity/Update EntityMasterGenral
+
+[33mcommit 94e36bb952e94c3000edff0020d536e944fd2bab[m
+Author: lcano <lcano@sahgl.com>
+Date:   Mon Dec 4 22:43:53 2023 +0100
+
+    Feature: [IMZ-I109] Prepare project for MAC
+
+[33mcommit b76bb8dc3c25db6e7e972f9e829d879e24cfbfc6[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Mon Dec 4 19:50:47 2023 +0100
+
+    Feature: [IMZ-I109] Adding  Crud EntityMasterGeneral
+
+[33mcommit 52ffdb4a7099952a44f4c5ade99eb3f63be3a74a[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Fri Dec 1 23:10:31 2023 +0100
+
+    Feature: [CCP-19] Enable Add function Edit MasterCreditItem
+
+[33mcommit ca14d47bbccaa5a99ec5080c8b98e71cef9a14b4[m
+Author: lcano <lcano@sahgl.com>
+Date:   Tue Nov 28 23:33:33 2023 +0100
+
+    Feature: [IMZ-I109] Run project in Mac
+
+[33mcommit 0ed5bd81be31562819f8b9e3d603041a7720b90e[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Tue Nov 28 22:59:48 2023 +0100
+
+    Feature: [CCP-19] Update  CustomerItem
+
+[33mcommit a2ce7ac6ee413ba2190efc570577612dda3e0309[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Tue Nov 28 21:58:06 2023 +0100
+
+    Feature: [CCP-19] Update  CustomerItem
+
+[33mcommit d54fc13c892a8f30e5c90decc28a650a7e689dbc[m
+Author: livingstone Cano <lcano@sahgl.com>
+Date:   Tue Nov 21 15:02:49 2023 +0100
+
+    Initi Load
+
+[33mcommit dc6ab1ada089b05e5e5b069ee0a7f3ee5e6b6df0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Livingstone Cano <lcano@sahgl.com>
+Date:   Tue Nov 21 13:51:23 2023 +0000
+
+    Added README.md, .gitignore (VisualStudio) files
